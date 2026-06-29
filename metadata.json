@@ -1,0 +1,6 @@
+{
+  "name": "Personal Portfolio Website",
+  "description": "Modern, mobile-responsive personal portfolio website for Eleni Sirak, an ICT student and developer from Ethiopia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
